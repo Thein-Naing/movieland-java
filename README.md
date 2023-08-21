@@ -26,6 +26,8 @@
 
 
 <img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-fullstack/assets/117463446/1e6dea01-5f51-4104-90d5-e992cca3db45">
+<img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-java-spring-boot-Mongodb/assets/117463446/e035f71f-5e58-4066-87bc-e7781ac5d83b">
+
 <img width="960" alt="image" src="https://github.com/Thein-Naing/movieland-java-spring-boot-Mongodb/assets/117463446/e5cc9534-81bd-458b-8719-08c93cb9db3a">
 
 
