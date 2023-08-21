@@ -1,6 +1,6 @@
 `# Movieland full stack application built with React, MUI, Bootstrap, Java, Spring Boot, MongoDB, TMDB API, Firebase Auth and tested with Postman `
 
-`[1] This was bulit after learning from FreeCodeCamp tutorial . At the moment can deploy only frontend  and you can checke here. I will deploy backend later.`
+`[1] This was bulit after learning from FreeCodeCamp tutorial.I also added login/signup and some functions which are not included in the tutorial. At the moment can deploy only frontend  and you can checke here. I will deploy backend later.`
  https://movieland-api.onrender.com/
 
 
